@@ -27,3 +27,4 @@ Reactなどを使ったウェブアプリケーションの経験値を増やし
 
 - [安田学の取扱説明書 | チームラーニング](https://github.com/manabuyasuda/manabuyasuda/tree/main/team-learning)
 - [安田学の行動指針](https://github.com/manabuyasuda/manabuyasuda/tree/main/my-action-guidelines)
+- [パーソナリティー](https://github.com/manabuyasuda/manabuyasuda/tree/main/personality)
