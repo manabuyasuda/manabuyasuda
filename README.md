@@ -1,16 +1,29 @@
-### Hi there 👋
+30歳のときに「CSS設計が世界中で議論されていること」に興味を持ち、「自分もこのような仕事をしたい」とウェブ業界に転職。
+上場企業を含む36社（2023年時点）のお客さま（ANAさま、京セラさま、Panasonicさまなど）とお仕事をさせていただいています。
+案件実績は[Forkwell](https://portfolio.forkwell.com/@manabuyasuda)に記載しています。
 
-<!--
-**manabuyasuda/manabuyasuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+CSS設計、スタイルガイド制作、アクセシブルなコーディングが得意です。多言語サイトやJamstackサイト、React（TypeScript）を使用したウェブアプリも担当してきました。
+TAMのグループ会社であるTAMSANのエンジニアチーム（本人を含めて5人）のリーダーを担当しており、メンバーとの1on1やキャリアMTG、採用活動、会社全体のマネジメントにも参画しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+モノゴトを深く知り、整理していくプロセスが好きです。
+最新技術を追うというよりも、「問う技術」「プロセス設計」「ナレッジマネジメント」「ファシリテーション」「コーチング」のようなソフトスキルを意識しているタイプでもあります。
+エンジニアの3分類だと、技術：プロダクト：組織＝2：3：5のイメージです。
+[エンジニアを分類する、3つのタイプ｜山本 正喜 / Chatwork CEO](https://note.com/cwmasaki/n/nb181309fac93)
+
+iPhoneやMacを中心にしたブログを過去に書いていて、月間10万PVを達成したこともあります。
+テキストベースのアウトプットは日常的にしているので、書くことは苦にならないタイプです。
+
+SNSやブログなどは[bento.me](https://bento.me/manabuyasuda)にまとめています。ぜひクリックしてください！
+
+Reactなどを使ったウェブアプリケーションの経験値を増やしたいです。
+コードを書く仕事は大変なこともありますが、カタチのあるものに収束させていくプロセスに面白みを感じるからです。
+メンタルヘルステックにも興味があり、バックエンドやインフラを含めた包括的な知識や技術を身につけることで、サービス開発をチームでするための役割を果たせるようになることが中期的な目標と考えています（現在はフロントエンド領域のみ）。
+
+本当の意味で相手の役に立てる人でありたいです。
+コーチング的な支援は得意なほうだと思っていますが、背中を押したり、手を引っ張れるような積極的な支援で、その人の強みや良さを引き出せる仕事をしたいです。
+
+# Find out more!
+
+- [安田学の取扱説明書 | チームラーニング](https://github.com/manabuyasuda/manabuyasuda/tree/main/team-learning)
+- [安田学の行動指針](https://github.com/manabuyasuda/manabuyasuda/tree/main/my-action-guidelines)
