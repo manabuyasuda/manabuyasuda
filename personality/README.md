@@ -7,7 +7,7 @@
 - 感情（73%）
 - 判断（65%）
 
-※[16Personalities](https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD%E3%83%86%E3%82%B9%E3%83%88)で診断を実施、1回目は擁護者（ISFJ）でしたが、2回目は提唱者（INFJ）になりました
+※[16Personalities](https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD%E3%83%86%E3%82%B9%E3%83%88)で診断を実施、1回目は擁護者（ISFJ）でしたが、2回目は提唱者（INFJ）になりました  
 ※「[MBTI©️へのいざない](https://www.jppjapan.com/jws/information/?page=mbti_invitation)」などを読み、ベストフィットタイプをINFJと判断しています
 
 ## FFS理論
@@ -36,7 +36,7 @@
 1. T5w6 Sx（調べる人）
 2. T2w1 Sp（助ける人）
 
-※[エニアグラム性格診断【無料/90問式】あなたは9タイプのどれ？ \| ホイミー](https://hoyme.jp/eniatest)の診断結果です
+※[エニアグラム性格診断【無料/90問式】あなたは9タイプのどれ？ \| ホイミー](https://hoyme.jp/eniatest)の診断結果です  
 ※タイプ5とタイプ2で同じポイントでしたが、タイプ5のほうが強いと判断しました
 
 ## クリフトンストレングス（ストレングスファインダー）
