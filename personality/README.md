@@ -76,3 +76,9 @@
 32. 未来志向：「ポジティブ」な未来を想像して「ワクワクするイメージ」を得たい
 33. 社交性：新たな「出会い」や「繋がり」から「ネットワーク」を広げたい
 34. 指令性：その場の「主導権」を握って「自分」で選択と決断をしたい
+
+## その他の診断コンテンツ
+- [#内気であまり敵をつくらない、頑張り屋タイプ | Jobgram性格診断](https://jobgram.jp/m/ffae7e03-56c3-4aff-a7bd-117d81fdf7d9/result)
+- [アーチャー スキルを組み合わせ、オンリーワンな人材になる | 新・RPGジョブ診断]( https://rpg-shindan.wantedly.com/result/zx8p3/)
+- [安田学さんは「選ばれし勇者型」です。 | 診断クラウド ヨミトル](https://shindancloud.com/create/marketer/result/index.php?ymtr_result_id=978bd2f1-acb6-4f13-8e85-4072ea957e25)
+- [非HSS型HSP《 繊細で内向的 》 | HSP診断テスト | Hitostat](https://hitostat.com/ja/tests/highly-sensitive-person-test/non-hss-hsp)
