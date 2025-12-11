@@ -19,6 +19,7 @@ SNSやブログなどは[bento.me](https://bento.me/manabuyasuda)にまとめて
 
 # Find out more!
 
+- [実績](https://github.com/manabuyasuda/manabuyasuda/tree/main/achievements)
 - [安田学の取扱説明書 | チームラーニング](https://github.com/manabuyasuda/manabuyasuda/tree/main/team-learning)
 - [安田学の行動指針](https://github.com/manabuyasuda/manabuyasuda/tree/main/my-action-guidelines)
 - [パーソナリティー](https://github.com/manabuyasuda/manabuyasuda/tree/main/personality)
