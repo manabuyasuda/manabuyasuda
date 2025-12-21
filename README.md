@@ -15,10 +15,11 @@ Times（分報）をはじめとしたSlackによく出没。学びを整理し�
 コーチング的な支援や具体的な計画を立てられるようにサポートすることも比較的得意なほうだと思います。
 背中を押したり、手を引っ張れるような積極的な支援で、その人の強みや良さを引き出せる仕事をしたいです。
 
-SNSやブログなどは[bento.me](https://bento.me/manabuyasuda)にまとめています。ぜひクリックしてください！
+SNSやブログなどは[GitHubのリンク集]([https://bento.me/manabuyasuda](https://github.com/manabuyasuda/manabuyasuda/tree/main/links))にまとめています。ぜひクリックしてください！
 
 # Find out more!
 
+- [リンク集](https://github.com/manabuyasuda/manabuyasuda/tree/main/links)
 - [実績](https://github.com/manabuyasuda/manabuyasuda/tree/main/achievements)
 - [安田学の取扱説明書 | チームラーニング](https://github.com/manabuyasuda/manabuyasuda/tree/main/team-learning)
 - [安田学の行動指針](https://github.com/manabuyasuda/manabuyasuda/tree/main/my-action-guidelines)
