@@ -19,4 +19,4 @@
 
 ## 所属
 * [ちょっと株式会社](https://chot-inc.com/)（2024/3~）
-* [株式会社TAM](https://www.tam-tam.co.jp/)（2026/1~2024/2）
+* [株式会社TAM](https://www.tam-tam.co.jp/)（2016/1~2024/2）
